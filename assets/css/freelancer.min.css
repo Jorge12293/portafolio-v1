@@ -9053,7 +9053,7 @@ HABILIDADES
 
 .habilidad ul li{
    color: white;
-   width: 121px;
+   width: 163px;
    padding-left: 1em;
    padding-right: 1em;
    padding-top: 0.2em;
@@ -9281,6 +9281,15 @@ REDES
    color: white;
    background-color: #42e45f;
    border: 2px solid #42e45f;
+   border-radius: 100px;
+   font-size: 40px;
+   padding: 4px;
+}
+
+.fa-github{  
+   color: white;
+   background-color: black;
+   border: 2px solid black;
    border-radius: 100px;
    font-size: 40px;
    padding: 4px;
